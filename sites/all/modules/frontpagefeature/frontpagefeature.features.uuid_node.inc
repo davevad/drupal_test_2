@@ -26,7 +26,9 @@ function frontpagefeature_uuid_features_default_content() {
   'body' => array(
     'und' => array(
       0 => array(
-        'value' => 'this is the body of the front page on the DEV site!',
+        'value' => 'this is the body of the front page on the DEV site!
+
+peter said put this on the dev site RIGHT NOW or else :)',
         'summary' => '',
         'format' => 'filtered_html',
         'safe_summary' => '',
