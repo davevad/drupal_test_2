@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * front_page_feature.features.uuid_node.inc
+ * frontpagefeature.features.uuid_node.inc
  */
 
 /**
  * Implements hook_uuid_features_default_content().
  */
-function front_page_feature_uuid_features_default_content() {
+function frontpagefeature_uuid_features_default_content() {
   $nodes = array();
 
   $nodes[] = array(

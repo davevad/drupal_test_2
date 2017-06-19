@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * front_page_feature.features.field_base.inc
+ * frontpagefeature.features.field_base.inc
  */
 
 /**
  * Implements hook_field_default_field_bases().
  */
-function front_page_feature_field_default_field_bases() {
+function frontpagefeature_field_default_field_bases() {
   $field_bases = array();
 
   // Exported field_base: 'body'.

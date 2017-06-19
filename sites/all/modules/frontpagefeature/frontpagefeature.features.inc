@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * front_page_feature.features.inc
+ * frontpagefeature.features.inc
  */
 
 /**
  * Implements hook_node_info().
  */
-function front_page_feature_node_info() {
+function frontpagefeature_node_info() {
   $items = array(
     'page' => array(
       'name' => t('Basic page'),
