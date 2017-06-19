@@ -1,0 +1,11 @@
+name = UsersFeature
+description = Feature to export Users to Git
+core = 7.x
+package = Features
+dependencies[] = uuid_features
+features[features_api][] = api:2
+features[uuid_user][] = 8c147d2f-d84d-4cf9-a921-85ff3d48c844
+features[uuid_user][] = 8cf9e9f5-ce67-4dd2-b3c3-f8453a13e3ec
+features[uuid_user][] = 96538d8e-92dd-4e19-ab44-4891ae45a06c
+features[uuid_user][] = af7daf88-ccb6-40c3-bf40-beeebddce07a
+features[uuid_user][] = d4561424-de1e-4f15-911a-361e0c817cec
